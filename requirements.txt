@@ -6,4 +6,3 @@ seaborn
 scikit-learn
 keras
 tensorflow
-sqlite3==2.6.0
