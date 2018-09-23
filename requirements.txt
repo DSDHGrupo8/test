@@ -6,4 +6,4 @@ seaborn
 scikit-learn
 keras
 tensorflow
-sqlite3
+sqlite
