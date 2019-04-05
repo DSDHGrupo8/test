@@ -1,0 +1,1 @@
+https://mikulskibartosz.name/how-to-load-data-from-google-drive-to-pandas-running-in-google-colaboratory-a7f6a033c997
